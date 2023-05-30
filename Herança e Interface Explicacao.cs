@@ -72,3 +72,26 @@ public class Gato : Icaminhante, Icacador{
 
     }
 }
+
+/*
+1- Crie três interfaces, ITocadorGuitarra, ITocadorBaixo e ITocadorBateria, 
+cada uma com um método TocarGuitarra, TocarBaíxo e TocarBateria respectivamente
+Crie uma classe Musico que implemente as três interfaces.
+cada método deve imprimir uma mensagem apropriada,
+como “Tocando guitarra...”, “Tocando baixo. ..” e “Tocando bateria...”. 
+Crie um objeto da classe Musico e chame todos os três métodos.
+*/
+
+/*
+2- Crie duas interfaces, IVoador e ICorredor, cada uma com um metodo, Voar e Correr respectivamente. 
+Crie uma classe SuperHeroi que implementa ambas as interfaces. O mÃ©todo Voar deve imprimir "Voando alto
+no ceu..." e o metodo Correr deve imprimir "Correndo muito rapido...". Crie um objeto da classe Superheroi e chame ambos os metodos.
+*/
+
+/*
+3- Crie duas interfaces, Ileitor e IEscritor, 
+cada uma com um mÃ©todo, ler e escrever respectivamente.
+Crie uma classe usuario que implementa ambas as interfaces.]
+o metodo ler deve imprimir "lendo..." e o metodo Escrever deve imprimir "Escrevendo..."
+crie um Objeto da classe e chama ambos os metodos.
+*/
